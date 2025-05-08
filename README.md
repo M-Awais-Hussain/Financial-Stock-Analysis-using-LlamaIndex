@@ -42,6 +42,9 @@ GROQ_API_KEY=your_groq_api_key
 GOOGLE_API_KEY=your_google_api_key
 ```
 ## 🏃‍♂️ Usage
+
+### Create a "articles" folder and store your documents in it
+
 Run the Streamlit app:
 ```
 streamlit run main.py
